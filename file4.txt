@@ -1,0 +1,4 @@
+file 4 created 
+file 4 stashed using git stash push
+file 4 stashed using git stash apply 
+file 4 stashed and popped 
